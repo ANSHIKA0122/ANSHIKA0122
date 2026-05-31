@@ -12,9 +12,11 @@
 - ⚡ Fun fact: I love finding patterns in data!
 
 ## 🔗 Socials
-[ [LinkedIn] ( https://www.linkedin.com/in/anshika-singh-973842329 )
-[![Portfolio] (https://personal-portfolio-wine-kappa-27.vercel.app/)
-[![Email]( anshikasingh96538@gmail.com)
+## 🔗 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshika-singh-973842329)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://personal-portfolio-wine-kappa-27.vercel.app)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshikasingh96538@gmail.com)
 
 ## 💻 Tech Stack
 **Languages:** Python, SQL, JavaScript, HTML, CSS
