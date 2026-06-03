@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi, I'm Anshika Singh! 👋
 
 🎓 B.Tech IT Student (2nd Year) | Diploma in IT (Data Analysis) — Completed
