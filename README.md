@@ -114,4 +114,3 @@ anshika = {
 
 ---
 
-**Note:** Upar ` ` ` (backticks ke beech space hain) — woh copy karte waqt ```` ``` ```` likh dena (bina space ke). Yeh sirf display ke liye karna pada. Baaki sab exactly paste kar dena GitHub README editor mein! 🙂
