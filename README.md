@@ -10,10 +10,10 @@
 - ⚡ Fun fact: I love finding patterns in data!
 
 ## 🔗 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/anshika-singh-973842329)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=vercel)](https://personal-portfolio-wine-kappa-27.vercel.app)
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:anshikasingh96538@gmail.com)
-[![hackerrank](https://img.shields.io/badge/hackerrank-000000?style=for-the-badge&logo=hackerrank&logoColor=YELLOW)](https://www.hackerrank.com/profile/anshikasingh9651)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshika-singh-973842329)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://personal-portfolio-wine-kappa-27.vercel.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshikasingh96538@gmail.com)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/anshikasingh9651)
 
 ## 💻 Tech Stack
 **Languages:** Python, SQL, JavaScript, HTML, CSS
