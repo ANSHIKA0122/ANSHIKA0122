@@ -13,7 +13,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/anshika-singh-973842329)
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=vercel)](https://personal-portfolio-wine-kappa-27.vercel.app)
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:anshikasingh96538@gmail.com)
-[![hackerrank](https://img.shields.io/badge/hackerrank?style=for-the-badge&logo=hackerrank&logoColor=YELLOW)](https://www.hackerrank.com/profile/anshikasingh9651)
+[![hackerrank](https://img.shields.io/badge/hackerrank-000000?style=for-the-badge&logo=hackerrank&logoColor=YELLOW)](https://www.hackerrank.com/profile/anshikasingh9651)
 
 ## 💻 Tech Stack
 **Languages:** Python, SQL, JavaScript, HTML, CSS
